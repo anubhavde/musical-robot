@@ -1,0 +1,6 @@
+<h1><b>Song Recommender using Turicreate</b></h1>
+<p>In this project, I have created a Song Recommender System using Turicreate Library and created two models i.e a model that uses <b>popularity</b> of songs to recommend songs and another model that recommends songs based on <b>personalization</b>. Then I have compared the two models to find out which of the 2 models recommends better and found out that the one which is personalized performs better.</p>
+<p>To get started download the SFrame used by this project from here: https://d3c33hcgiwev3.cloudfront.net/dIBuXeIiEemm5A4ynZyB2A_749ef60351624a8d83beedd5ef23367e_song_data.sframe.zip?Expires=1648425600&Signature=c7jcu4wW66kjWAkoyE7K63ePECC9HQepa-EIqGN5ouitBgv0f6NfSatfABMBojDQWlxq1K2UJ6cDai80hMm08EU88RCU3PFB-R0hh482epXQFMfeH0d8ELKj4UvlXJrRWJo4YapS3jM~2sWsLylkSTnW8kebtCvJdrl1OSbyOas_&Key-Pair-Id=APKAJLTNE6QMUY6HBC5A.</p>
+<p>Unzip the folder obtained from the link and locate the file named <b>m_cccc16853452d1ed.0000</b>.Then move this file to the folder <b>people_wiki.sframe</b> that is present in the same folder as this README.md file.</p>
+<p>Next follow the instructions in the jupyter notebook and carry on.</p>
+<p>Referred from Machine Learning Foundations: A Case Study Approach from Coursera.</p>
